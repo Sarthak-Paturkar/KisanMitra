@@ -1,0 +1,10 @@
+streamlit>=1.32.0
+pandas
+numpy
+prophet
+xgboost
+scikit-learn
+plotly
+requests
+schedule
+scipy
